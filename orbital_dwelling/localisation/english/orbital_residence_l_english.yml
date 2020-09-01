@@ -1,0 +1,21 @@
+﻿l_english:
+  orbital_district:0 "Orbital Residential District"
+  orbital_district_desc:0 "It is a residential district built on orbit."
+  orbital_district_plural:0 "Orbital Residential District"
+
+  orbital_residence_0_MEGASTRUCTURE_DETAILS:0 "Orbital Dwelling supplies housing to the planet."
+
+  orbital_residence_0:0 "Orbital Dwelling Base"
+  orbital_residence_1:0 "Orbital Dwelling (33%)"
+  orbital_residence_2:0 "Orbital Dwelling (66%)"
+  orbital_residence_3:0 "Orbital Dwelling"
+
+  orbital_residence_0_DESC:0 "The base of the orbital dwelling. Includes life support and orbital elevators."
+  orbital_residence_1_DESC:0 "Convenience facilities and first residential section have been added."
+  orbital_residence_2_DESC:0 "The second residential section expansion plan has been implemented."
+  orbital_residence_3_DESC:0 "The last residential section expansion plan has been implemented."
+
+
+  orbital_residence_modifier_1:0 "1st Orbital Residental Section"
+  orbital_residence_modifier_2:0 "2nd Orbital Residental Section"
+  orbital_residence_modifier_3:0 "3rd Orbital Residental Section"
