@@ -3,10 +3,6 @@
 orbital_district = {
 	base_buildtime = 200
 	is_capped_by_modifier = yes
-
-	show_on_uncolonized = {
-		always = yes
-	}
  
 	potential = {
 		OR = {

@@ -1,6 +1,6 @@
 
 orbital_residence_0 = {
-	entity = "construction_platform_entity"
+	entity = "orbital_habitat"
 	construction_entity = "habitat_phase_01_entity"
 	portrait = "GFX_megastructure_construction_background"
 	entity_offset = { x = -7 y = -7 }
@@ -47,8 +47,8 @@ orbital_residence_0 = {
 }
 
 orbital_residence_1 = {
-	entity = "construction_platform_entity"
-	construction_entity = "habitat_phase_01_entity"
+	entity = "orbital_habitat"
+	construction_entity = "orbital_habitat"
 	portrait = "GFX_megastructure_construction_background"
 	entity_offset = { x = -7 y = -7 }
 	build_time = 500
@@ -79,12 +79,11 @@ orbital_residence_1 = {
 	}	
 	construction_blocks_others = no
 	construction_blocked_by_others = no
-
 }
 
 orbital_residence_2 = {
-	entity = "construction_platform_entity"
-	construction_entity = "habitat_phase_01_entity"
+	entity = "orbital_habitat"
+	construction_entity = "orbital_habitat"
 	portrait = "GFX_megastructure_construction_background"
 	entity_offset = { x = -7 y = -7 }
 	build_time = 500
@@ -118,8 +117,8 @@ orbital_residence_2 = {
 }
 
 orbital_residence_3 = {
-	entity = "construction_platform_entity"
-	construction_entity = "habitat_phase_01_entity"
+	entity = "orbital_habitat"
+	construction_entity = "orbital_habitat"
 	portrait = "GFX_megastructure_construction_background"
 	entity_offset = { x = -7 y = -7 }
 	build_time = 500
