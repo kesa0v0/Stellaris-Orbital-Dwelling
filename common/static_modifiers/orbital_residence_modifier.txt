@@ -1,14 +1,23 @@
 orbital_residence_modifier_1 = {
+	icon = "gfx/interface/icons/planet_modifiers/mod_planet_max_buildings_add.dds"
+	icon_frame = 1
 	orbital_district_max = 5
-	show_only_custom_tooltip = yes
+	apply_modifier_to_other_planets = no
+	show_only_custom_tooltip = no
 }
 
 orbital_residence_modifier_2 = {
+	icon = "gfx/interface/icons/planet_modifiers/mod_planet_max_buildings_add.dds"
+	icon_frame = 1
 	orbital_district_max = 10
-	show_only_custom_tooltip = yes
+	apply_modifier_to_other_planets = no
+	show_only_custom_tooltip = no
 }
 
 orbital_residence_modifier_3 = {
+	icon = "gfx/interface/icons/planet_modifiers/mod_planet_max_buildings_add.dds"
+	icon_frame = 1
 	orbital_district_max = 20
-	show_only_custom_tooltip = yes
+	apply_modifier_to_other_planets = no
+	show_only_custom_tooltip = no
 }
