@@ -3,7 +3,7 @@ orbital_residence_modifier_1 = {
 	icon_frame = 1
 	orbital_district_max = 5
 	apply_modifier_to_other_planets = no
-	show_only_custom_tooltip = no
+	show_only_custom_tooltip = yes
 }
 
 orbital_residence_modifier_2 = {
@@ -11,7 +11,7 @@ orbital_residence_modifier_2 = {
 	icon_frame = 1
 	orbital_district_max = 10
 	apply_modifier_to_other_planets = no
-	show_only_custom_tooltip = no
+	show_only_custom_tooltip = yes
 }
 
 orbital_residence_modifier_3 = {
@@ -19,5 +19,5 @@ orbital_residence_modifier_3 = {
 	icon_frame = 1
 	orbital_district_max = 20
 	apply_modifier_to_other_planets = no
-	show_only_custom_tooltip = no
+	show_only_custom_tooltip = yes
 }
