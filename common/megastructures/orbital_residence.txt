@@ -110,6 +110,7 @@ orbital_residence_2 = {
 				modifier = orbital_residence_modifier_2
 				days = -1
 			}
+			remove_modifier = orbital_residence_modifier_1
 		}
 	}
 	construction_blocks_others = no
@@ -145,6 +146,7 @@ orbital_residence_3 = {
 				modifier = orbital_residence_modifier_3
 				days = -1
 			}
+			remove_modifier = orbital_residence_modifier_2
 		}
 	}
 	construction_blocks_others = no

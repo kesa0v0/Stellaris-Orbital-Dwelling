@@ -4,11 +4,11 @@ orbital_residence_modifier_1 = {
 }
 
 orbital_residence_modifier_2 = {
-	orbital_district_max = 5
+	orbital_district_max = 10
 	show_only_custom_tooltip = yes
 }
 
 orbital_residence_modifier_3 = {
-	orbital_district_max = 10
+	orbital_district_max = 20
 	show_only_custom_tooltip = yes
 }
